@@ -21,3 +21,16 @@ td {
 tr {
   border: 5px solid black;
 }
+.row {
+  width: 500px;
+  padding: 10px;
+}
+img {
+  width: 20%;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+}
